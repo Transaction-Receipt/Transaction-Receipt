@@ -1,16 +1,13 @@
-## Hi there 👋
+Dear User,
 
-<!--
-**Transaction-Receipt/Transaction-Receipt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This email confirms the automatic renewal of your Annual Protection McAfee for a new one-year term. Support: +1 805 351 6336.
 
-Here are some ideas to get you started:
+Service: 1-Year Subscription Plan
+Amount Charged: $350.00
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+The charge of $350.00 will be finalized on your payment method within the next 24 hours. Thank you for your continued trust. Bill Id_YTY845
+
+If you did not authorize this renewal or have any questions, please contact our dedicated support team immediately for assistance. Support: +1 805 351 6336
+
+Thanks
